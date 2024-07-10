@@ -5,4 +5,4 @@ A repository to add project files for WoTech Team 14, it will consist of java an
 Our team members are: Kaira, Lilian, Ambuja and Agy.
 
 
-Lilian is from Estonia and thriving for being an expert in coding. 
+Lilian is from Estonia and striving to become an expert in coding. 
