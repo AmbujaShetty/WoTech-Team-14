@@ -8,3 +8,5 @@ Our team members are: Kaira, Lilian, Ambuja and Agy.
 Lilian is from Estonia and striving to become an expert in coding. 
 
 Agy is from Latvia, still on vacation mood and trying to catch-up 💻🔍
+
+Kaira is also from Estonia and learing coding so she could do a career change.
