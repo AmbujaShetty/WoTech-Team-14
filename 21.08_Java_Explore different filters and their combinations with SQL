@@ -1,0 +1,28 @@
+## 21.08 JAVA TEAMWORK
+``'
+Use our Pet clinics files
+Use online free SQLight platform https://sqliteonline.com/
+```
+
+```
+SELECT * FROM Pets WHERE LENGTH(Name) =4 AND Name LIKE 'B%' AND SEX='female';
+```
+```
+SELECT * FROM Pets GROUP BY Kind
+```
+```
+SELECT * FROM Pets ORDER BY Age DESC LIMIT 12;
+```
+```
+SELECT * FROM Pets ORDER BY Sex AND Age<10
+```
+```
+SELECT * FROM Pets WHERE Age < (SELECT AVG(8) FROM Pets);
+```
+```
+SELECT Name FROM Pets WHERE Name == 'Simba'
+```
+```
+SELECT * FROM Pets WHERE Kind = 'Cat' OR Age > 10;
+
+```
